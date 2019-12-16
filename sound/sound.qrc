@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>global.mp3</file>
+        <file>groundBack.mp3</file>
+        <file>myAircraftExplode.mp3</file>
+        <file>myAircraftHit.wav</file>
+        <file>otherAircraftHit_2.wav</file>
+    </qresource>
+</RCC>

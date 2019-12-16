@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>aircraft-01.png</file>
+        <file>battle-01.png</file>
+        <file>continue.png</file>
+        <file>gameBoard.png</file>
+        <file>loading.png</file>
+        <file>logo.png</file>
+        <file>mainMenu.png</file>
+        <file>myAircraft.png</file>
+        <file>otherExplode.png</file>
+        <file>myExplode.png</file>
+        <file>pause.png</file>
+        <file>video.png</file>
+        <file>myBullet.png</file>
+        <file>otherAircraft.png</file>
+        <file>otherBullet.png</file>
+        <file>user.png</file>
+        <file>cancel.png</file>
+        <file>submit.png</file>
+        <file>delete.png</file>
+        <file>deleteAll.png</file>
+        <file>search.png</file>
+        <file>table.png</file>
+        <file>music.png</file>
+        <file>stopMusic.png</file>
+        <file>readMe.png</file>
+        <file>direction_1.png</file>
+        <file>direction_2.png</file>
+        <file>prefer.png</file>
+        <file>bullets.png</file>
+        <file>sort.png</file>
+    </qresource>
+</RCC>
